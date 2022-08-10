@@ -1,0 +1,20 @@
+{
+  "name": "shrink-url",
+  "version": "1.0.1",
+  "description": "shrink your long website addess with shrinked one!",
+  "main": "server.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "Ahsan Ali",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1",
+    "shortid": "^2.2.15"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
